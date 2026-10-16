@@ -1,0 +1,6 @@
+homepage: "https://github.com/janithbhathiya90-rgb/gtm-ga4-bot-detector"
+documentation: "https://github.com/janithbhathiya90-rgb/gtm-ga4-bot-detector#readme"
+versions:
+  # Latest version first. Replace with the full commit SHA that contains template.tpl.
+  - sha: REPLACE_WITH_COMMIT_SHA
+    changeNotes: Initial release.
